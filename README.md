@@ -6,9 +6,9 @@ In this tutorial, you'll learn how to generate an animated GIF representing 20-y
 Follow the [MODIS NDVI Times Series Animation tutorial on the GEE community web site](https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation) or the GEE [Github repository of the same tutorial](https://github.com/google/earthengine-community/blob/master/tutorials/modis-ndvi-time-series-animation/index.md). That tutorial will walk you through your first NDVI visualization!
 
 # Coding Challenge
-Once you've completed the NDVI tutorial, write a script for GEE that will create the same output (an animated .gif) for a specific country. Choose any country you like. Once completed, copy the code from your GEE file into a `.js` file and place it in a new Github repo. Place your animated `.gif` in the same repo and embed it in your `README`. You will submit a link to your repo containing the code, your animated gif, and a brief write-up in your `README` about the country you selected and any observations you have. Your output should look something like this (I chose Kenya):
-> ![NDVI Animation of Kenya](images/argentina_NDVI.gif)
+Once you've completed the NDVI tutorial, write a script for GEE that will create the same output (an animated .gif) for a specific country. Choose any country you like. Once completed, copy the code from your GEE file into a `.js` file and place it in a new Github repo. Place your animated `.gif` in the same repo and embed it in your `README`. You will submit a link to your repo containing the code, your animated gif, and a brief write-up in your `README` about the country you selected and any observations you have. Your output should look something like this (I chose Argentina):
+> ![NDVI Animation of Argentina](images/argentina_NDVI.gif)
 
 ## What are these animations showing, exactly?  
 NDVI is mapped to a color gradient from tan to dark green representing low to high photosynthetic capacity (low to high vegetation cover density/productivity). The tide-like latitudinal shift in vegetation is associated with the sun’s declination moving between 23.5&deg; north and 23.5&deg; south, relative to the equator, throughout the year. See [Nicholson, 2019](https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-16-0287.1) for more information on this phenomenon. Similar seasonal patterns of vegetation productivity are found around the world at both small and large scales.
-
+> ![NDVI Animation of Tierra Del Fuego](images/TierraDelFuego_NDVI.gif)
