@@ -8,3 +8,12 @@ Argentina is a South American country spanning across many different biomes. The
 # Climate, Vegetation, & Climate Change in Tierra Del Fuego
 Tierra Del Fuego translates to Land of Fire because of how settlers saw many fires from indigenous people burning in the distance. This archipelago is a famous landmark, as the Beagle Channel was used by Charles Darwin to navigate from the Atlantic to the Pacific Ocean. This channel allowed him to avoid the dangerous seas off the coast of Cape Horn. The climate of this region is defined by a four-season cycle, as seen in the second animation, where vegetation decreases rapidly from high altitudes to the low northern coasts. The climate is defined by cool summers and cold winters, which limit the types of vegetation that can survive. The largest island contains areas of the densest vegetation, thriving birch forest and barren moss-ridden landscapes make up the spectrum of vegetation (Encyclopædia Britannica). Lake Fagono, the largest lake in the region and is seen in the second animation, is a landmark of constant non-vegetated area. Surrounding this large lake are mountains carved by past and current glaciers. They are also shown in the second animation, they are the few remnants of annual non-vegetated areas. This region is quickly changing to a warmer climate, where annual mean temperatures are rising. This is causing the glaciers to rapidly recede in the area (Rabassa, 2009).
 > ![NDVI Animation of Tierra Del Fuego](images/TierraDelFuego_NDVI.gif)
+
+## References
+"Factors Influencing Climate." Encyclopædia Britannica. https://www.britannica.com/place/South-America/Factors-influencing-climate.
+
+Rabassa, Jorge. "Impact of Global Climate Change on Glaciers and Permafrost of South America, with Emphasis on Patagonia, Tierra Del Fuego, and the Antarctic Peninsula." Developments in Earth Surface Processes Natural Hazards and Human-Exacerbated Disasters in Latin America, 2009, 415-38. doi:10.1016/s0928-2025(08)10019-0.
+
+"Tierra Del Fuego." Encyclopædia Britannica. https://www.britannica.com/place/Tierra-del-Fuego-archipelago-South-America.
+
+Viale, Maximiliano, Emilio Bianchi, Leandro Cara, Lucas E. Ruiz, Ricardo Villalba, Pierre Pitte, Mariano Masiokas, Juan Rivera, and Laura Zalazar. "Contrasting Climates at Both Sides of the Andes in Argentina and Chile." Frontiers in Environmental Science 7 (2019). doi:10.3389/fenvs.2019.00069.
